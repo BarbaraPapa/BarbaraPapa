@@ -6,7 +6,8 @@
 - Bootstrap
 - Javascript 
 - React
-- Node.Js 
+- Node.Js
+- MongoDB 
 - TypeScript
 
 
