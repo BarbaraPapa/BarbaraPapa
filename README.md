@@ -1,7 +1,7 @@
 # I'm a Fullstack Web Developer
 
 ---
-#### 📝 I studied Web development at  DCI Digital Career Institute  *Berlin*
+### 📝 I studied Web development at  DCI Digital Career Institute  *Berlin*
 - During this full time training I used various technologies in particular  MERN stack.
 - Completed the various projects assigned to practice the technologies learned.
 - Successfully participated in the final project in collaboration with my team.
@@ -22,6 +22,7 @@
 ---
 
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
+### Or send me an email at barbara.papa.d@gmail.com 📩
 
 
 ---
