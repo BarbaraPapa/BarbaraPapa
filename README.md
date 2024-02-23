@@ -20,7 +20,7 @@
 `Typescript` -  `TDD`  -  `React Native`
 
 ---
-
+### Take a look at my portfolio 
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
 ### Or send me an email at barbara.papa.d@gmail.com 📩
 
