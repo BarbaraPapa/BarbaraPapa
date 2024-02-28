@@ -8,6 +8,12 @@
 - Taking English lessons to improve my communication skills.
 ---
 
+### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
+### My [Resume](https://github.com/BarbaraPapa/My-Resume-Pdf)
+### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
+### Or send me an email at barbara.papa.d@gmail.com 📩
+
+---
 ### 🛠️ Tecnologies:
 
  `HTML`   - `CSS`   - `SASS`   - `Bootstrap`   
@@ -18,12 +24,6 @@
 
 #### 📝 Learning:  
 `Typescript` -  `TDD`  -  `React Native`
-
----
-### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
-### My [Resume](https://github.com/BarbaraPapa/My-Resume-Pdf)
-### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
-### Or send me an email at barbara.papa.d@gmail.com 📩
 
 ---
 
