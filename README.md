@@ -21,7 +21,7 @@
 
 ---
 ### Take a look at my Web Portfolio 
-### Download my [Resume](https://github.com/BarbaraPapa/My-Resume-Pdf/files/14419955/Barbara.Papa.Resume.pdf)
+### My [Resume](https://github.com/BarbaraPapa/My-Resume-Pdf)
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
 ### Or send me an email at barbara.papa.d@gmail.com 📩
 
