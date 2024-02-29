@@ -1,11 +1,13 @@
 # I'm a Fullstack Web Developer
 
 ---
-### 📝 I studied Web development at  DCI Digital Career Institute  *Berlin*
-- During this full time training I used various technologies in particular  MERN stack.
-- Completed the various projects assigned to practice the technologies learned.
-- Successfully participated in the final project in collaboration with my team.
-- Taking English lessons to improve my communication skills.
+Recent graduate in web development with experience in team leadership and design. 
+
+Despite being a newcomer to the field, I have successfully managed teams and developed websites, demonstrating proficiency in HTML, CSS, and JavaScript.
+I am a creative problem-solver and I approach technical challenges proactively. 
+
+I am eager to contribute to a dynamic tech environment, leveraging my innovative mindset and project management skills to foster continuous growth in the field of web development.
+
 ---
 
 ### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
