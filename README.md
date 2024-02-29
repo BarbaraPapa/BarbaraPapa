@@ -9,12 +9,11 @@
 ---
 
 ### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
-### My [Resume](https://github.com/BarbaraPapa/My-Resume-Pdf)
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 📬
 ### Or send me an email at barbara.papa.d@gmail.com 📩
 
 ---
-### 🛠️ Tecnologies:
+### 🛠️ Technologies:
 
  `HTML`   - `CSS`   - `SASS`   - `Bootstrap`   
 
@@ -34,7 +33,7 @@
 ![image](https://github.com/SalmaRepo/Expenses_Tracker_Frontend/assets/123093914/5c9ae57f-dbbc-4528-b383-1efcb90e4f5f)
 
 ---
-#### Lenguages:
+#### Languages:
 - Italian ( native )
 - Spanish (fluent ) 
 - English (fluent) 
