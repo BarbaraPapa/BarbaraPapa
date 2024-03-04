@@ -1,9 +1,10 @@
 # I'm a Fullstack Web Developer
 
 ---
-Recent graduate in web development with experience in team leadership and design. 
+Motivated full stack web developer with a background in team leadership and design. 
 
-Despite being a newcomer to the field, I have successfully managed teams and developed websites, demonstrating proficiency in HTML, CSS, and JavaScript.
+Due to my previous position, I bring great organizational and strategic skills to the table. 
+
 I am a creative problem-solver and I approach technical challenges proactively. 
 
 I am eager to contribute to a dynamic tech environment, leveraging my innovative mindset and project management skills to foster continuous growth in the field of web development.
