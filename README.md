@@ -32,8 +32,7 @@ I am eager to contribute to a dynamic tech environment, leveraging my innovative
 ## My relevant collaboration project
 
 ### [Expensify](https://github.com/BarbaraPapa/Expensify-Expenses_Tracker_Frontend) - Expenses tracker
-
-![image](https://github.com/SalmaRepo/Expenses_Tracker_Frontend/assets/123093914/5c9ae57f-dbbc-4528-b383-1efcb90e4f5f)
+![screen expensify](https://github.com/BarbaraPapa/BarbaraPapa/assets/103266205/7ecdc583-b48f-466c-8d12-0da7d09407b8)
 
 ---
 #### Languages:
