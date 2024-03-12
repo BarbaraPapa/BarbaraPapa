@@ -13,7 +13,6 @@ I am eager to contribute to a dynamic tech environment, leveraging my innovative
 
 ### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 
-### Or send me an email at barbara.papa.d@gmail.com 
 
 ---
 
