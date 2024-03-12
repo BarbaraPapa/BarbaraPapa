@@ -16,17 +16,15 @@ I am eager to contribute to a dynamic tech environment, leveraging my innovative
 ### Or send me an email at barbara.papa.d@gmail.com 📩
 
 ---
-### 🛠️ Technologies:
 
- `HTML`   - `CSS`   - `SASS`   - `Bootstrap`   
 
- `Javascript`   - `React.js`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraPapa&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraPapa&show_icons=true&theme=dark)
 
- `Node.js`  -`Express.js`   - `MongoDB`  -`MySQL`
-
-#### 📝 Learning:  
-`Typescript` -  `TDD`  -  `React Native`
-
+---
+## My last Typescript project
+- I created this project to help some children who are learning to write in English, then I decided to implement it and added 2 other languages
+### [Hangman Game](https://hangman-game-sandy.vercel.app/)
+![Screenshot 2024-03-12 112056](https://github.com/BarbaraPapa/BarbaraPapa/assets/103266205/3ba3696d-3f66-45b0-a31c-278662903271)
 ---
 
 ## My relevant collaboration project
