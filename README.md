@@ -11,7 +11,7 @@ I am eager to contribute to a dynamic tech environment, leveraging my innovative
 
 ---
 
-### Take a look at my [Web Portfolio](https://barbarapapa.github.io/My-Portfolio/)
+### Take a look at my [Web Portfolio](https://www.barbara-dev.com/)
 ### Connect with me in [Linkedin](https://www.linkedin.com/in/barbara-papa-30980a106/) 
 
 ---
