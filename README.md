@@ -16,11 +16,6 @@ I am eager to contribute to a dynamic tech environment, leveraging my innovative
 
 ---
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraPapa&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraPapa&show_icons=true&theme=dark)
-
----
-
 # My last [Typescript project](https://github.com/BarbaraPapa/Hangman-game)
 ## I created this project to help some children who are learning to write in English, then I decided to implement it and added 2 other languages
 ## [Hangman Game](https://hangman-game-sandy.vercel.app/)
